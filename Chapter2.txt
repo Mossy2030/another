@@ -1,0 +1,2 @@
+After experimenting the branching using the github app online I can say that it might appear more user friendly
+but personally I prefer using the the terminal way because I'm a programmer from the old school .
